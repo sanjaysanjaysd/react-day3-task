@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  font-family: 'Libre Baskerville';
+  background-color: rgb(235, 230, 230);
+}
+
+.removeCart:hover {
+  background-color: rgb(2, 2, 26);
+}
+
+.card {
+  box-shadow: 2px 2px 3px rgb(80, 55, 55);
+  border-radius: 8px;
+
+}
+
+.card:hover {
+  box-shadow: rgba(31, 27, 27, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
